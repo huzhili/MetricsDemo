@@ -1,0 +1,17 @@
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.exe
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.deps.json
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.runtimeconfig.json
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.runtimeconfig.dev.json
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.dll
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\MetricsDemo.pdb
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.csprojAssemblyReference.cache
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.RazorAssemblyInfo.cache
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.RazorAssemblyInfo.cs
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.AssemblyInfoInputs.cache
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.AssemblyInfo.cs
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.RazorTargetAssemblyInfo.cache
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.dll
+D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.pdb

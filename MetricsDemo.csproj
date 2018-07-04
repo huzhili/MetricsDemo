@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App"/>
+    <PackageReference Include="App.Metrics" Version="2.1.0"/>
+    <PackageReference Include="App.Metrics.AspNetCore.Endpoints" Version="2.0.0"/>
+    <PackageReference Include="App.Metrics.AspNetCore.Reporting" Version="2.0.0"/>
+    <PackageReference Include="App.Metrics.AspNetCore.Tracking" Version="2.0.0"/>
+    <PackageReference Include="App.Metrics.Reporting.InfluxDB" Version="2.0.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8"/>
+    <PackageReference Include="Polly" Version="6.0.1"/>
+    <PackageReference Include="Ocelot" Version="7.1.0-unstable0035"/>
+  </ItemGroup>
+</Project>
