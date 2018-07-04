@@ -15,3 +15,9 @@ D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\Met
 D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.RazorTargetAssemblyInfo.cache
 D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.dll
 D:\Workspace\Github\AspNetCore\MetricsDemo\obj\Debug\netcoreapp2.1\win10-x64\MetricsDemo.pdb
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influx.exe
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influxd.exe
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influxdb.conf
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influx_inspect.exe
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influx_stress.exe
+D:\Workspace\Github\AspNetCore\MetricsDemo\bin\Debug\netcoreapp2.1\win10-x64\InfluxDB\influx_tsm.exe
